@@ -1,0 +1,9 @@
+﻿  try.cpp
+C:\Users\lenovo\Desktop\my_game\game\game\try.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lenovo\Desktop\my_game\game\game\try.cpp(34,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lenovo\Desktop\my_game\game\game\try.cpp(74,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lenovo\Desktop\my_game\game\game\try.cpp(74,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lenovo\Desktop\my_game\game\game\try.cpp(185,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lenovo\Desktop\my_game\game\game\try.cpp(271,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lenovo\Desktop\my_game\game\game\try.cpp(271,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game.vcxproj -> C:\Users\lenovo\Desktop\my_game\game\x64\Debug\game.exe
